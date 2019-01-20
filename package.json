@@ -1,0 +1,19 @@
+{
+  "name": "ub_chat",
+  "version": "1.0.0",
+  "description": "simple chat app for the university of Buea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "UB"
+  ],
+  "author": "Ngadou Yopa",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
